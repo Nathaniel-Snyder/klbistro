@@ -10,5 +10,28 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
+ */
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+/* NAVBAR */
+
+.navbar {
+  background-color: white;
+}
+
+.navbar-brand {
+  padding-left: 0px;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 50px;
+    height: 100px;
+    padding-top: 5;
+    background-color: white;
+}
+
+.containter-fluid {
+  padding-left: 5px;
+}
