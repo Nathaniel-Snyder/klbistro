@@ -1,7 +1,9 @@
 == K&L Bistro's Website
 
 Ruby Version - 2.2.1
+
 Postgresql server
+
 Developed using Ruby on Rails
 
 ---
